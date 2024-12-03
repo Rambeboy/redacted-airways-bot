@@ -32,7 +32,7 @@ git clone https://github.com/Rambeboy/redacted-airways-bot.git && cd redacted-ai
 npm install
 ```
 
-3. Configure `accounts.js` file and add your account tokens
+3. Configure `accounts.js` file
 
 ```bash
 cp accounts/accounts_tmp.js accounts.js
