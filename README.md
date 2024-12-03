@@ -1,4 +1,4 @@
-# RedactedAirways BOT
+## REDACTED AIRWAYS BOT
 
 An automation bot for [RedactedAirways Quest](https://quest.redactedairways.com) built with Node.js.
 
